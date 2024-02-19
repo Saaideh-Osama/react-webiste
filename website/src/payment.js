@@ -30,7 +30,7 @@ return(
 
 		    	<div class="d-flex justify-content-between px-3 pt-4 pb-3">
 		    		
-		    		<button type="button" class="btn btn-primary button" onClick={this.subtract()}>Pay amount</button>
+		    		<button type="button" class="btn btn-primary button" onClick={this.subtract}>Pay amount</button>
 		    	</div>
 
 
